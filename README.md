@@ -1,6 +1,6 @@
 # speller
 Hash table implementation of CS50's pset-5: Speller
-
+```
 if (!tried_yourself)
 
 {
@@ -20,3 +20,4 @@ while (stuck)
   get(back_to_work);
   
 }
+```
